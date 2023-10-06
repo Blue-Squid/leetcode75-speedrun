@@ -3,7 +3,7 @@
 
 ## Introduction
 
-LeetCode has become the go-to platform for aspiring software engineers and developers looking to prepare for technical interviews. With its extensive collection of coding problems, it offers an excellent opportunity to hone your algorithmic and data structure skills. Among the many ways to use LeetCode effectively, one approach that has gained popularity is the "LeetCode 75 Speed Run." In this repo, we will attempt to complete the 75 problems in 48 hours. 
+LeetCode has become the go-to platform for aspiring software engineers and developers looking to prepare for technical interviews. With its extensive collection of coding problems, it offers an excellent opportunity to hone your algorithmic and data structure skills. Among the many ways to use LeetCode effectively, one approach that has gained popularity is the "LeetCode 75 Study plan." In this repo, we will attempt to complete the 75 problems in 48 hours. 
 
 
 ## What is the LeetCode 75 Speed Run?
@@ -15,8 +15,10 @@ The LeetCode 75 Speed Run is a focused and time-efficient approach to mastering 
 The number 75 is not arbitrary; it is carefully selected to ensure a balanced and comprehensive preparation. Here's the breakdown of the significance of this number:
 
 *Diversity:* 75 problems cover a broad spectrum of topics, including arrays, strings, linked lists, trees, graphs, dynamic programming, and more. This diversity ensures that you're well-equipped to handle a variety of interview questions.
+
 *Depth:* While there are many more problems on LeetCode, completing 75 problems forces you to dive deep into each one. You'll understand the nuances of different problem-solving techniques, enabling you to tackle similar problems with ease.
-*Time Efficiency:* The LeetCode 75 Speed Run is designed to be completed within a few months, making it an achievable goal for candidates with busy schedules.
+
+*Time Efficiency:* The LeetCode 75 Speed Run is designed to be completed within a few days, making it an achievable goal for candidates with busy schedules.
 
 ## Rules:
 1. Stealing solutions from other sources is not allowed.
@@ -31,11 +33,14 @@ Note: Solution need not be optimal, or efficient only correctness is required.
 
 ## Why the LeetCode 75 Speed Run Works:
 
-Structured Learning: It provides a structured approach to cover essential topics, preventing you from getting lost in the vast sea of LeetCode problems.
-Balanced Coverage: The selection of problems ensures that you become proficient in a wide range of topics, which is vital for interviews.
-Time Management: By setting a time frame for completing these problems, you develop time management skills, a valuable asset during interviews.
-Problem Solving: The repetition and review of problems sharpen your problem-solving abilities, enabling you to tackle unknown challenges effectively.
-Conclusion
+_Structured Learning:_ It provides a structured approach to cover essential topics, preventing you from getting lost in the vast sea of LeetCode problems.
+
+_Balanced Coverage:_ The selection of problems ensures that you become proficient in a wide range of topics, which is vital for interviews.
+
+_Time Management:_ By setting a time frame for completing these problems, you develop time management skills, a valuable asset during interviews.
+
+_Problem Solving:_ The repetition and review of problems sharpen your problem-solving abilities, enabling you to tackle unknown challenges effectively.
+## Conclusion
 
 The LeetCode 75 Speed Run is a well-defined strategy to prepare for technical interviews efficiently. By completing 75 carefully chosen problems, you can master a diverse set of coding challenges, build confidence, and become better equipped to excel in coding interviews. Remember that while speed is important, understanding the underlying concepts and techniques is equally crucial. So, embark on your LeetCode 75 Speed Run journey, and watch your coding interview skills reach new heights.
 
