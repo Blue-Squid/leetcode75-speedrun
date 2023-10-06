@@ -1,0 +1,5 @@
+Attempt 1 
+
+Started At: 06-10-2023, Friday, 22:00
+Language: C++ 
+Progress: 
