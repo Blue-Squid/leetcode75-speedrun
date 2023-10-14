@@ -1,0 +1,5 @@
+if(EXISTS "/Users/bluesquid/Documents/Projects/leetcode75-speedrun/build/tests/leetcode75Tests[1]_tests.cmake")
+  include("/Users/bluesquid/Documents/Projects/leetcode75-speedrun/build/tests/leetcode75Tests[1]_tests.cmake")
+else()
+  add_test(leetcode75Tests_NOT_BUILT leetcode75Tests_NOT_BUILT)
+endif()
